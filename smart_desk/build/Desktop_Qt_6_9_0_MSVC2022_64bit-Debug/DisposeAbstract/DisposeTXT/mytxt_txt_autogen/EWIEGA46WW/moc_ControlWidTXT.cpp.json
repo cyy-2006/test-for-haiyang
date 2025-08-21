@@ -1,0 +1,30 @@
+{
+    "classes": [
+        {
+            "className": "CppHighlighter",
+            "lineNumber": 13,
+            "object": true,
+            "qualifiedClassName": "CppHighlighter",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QSyntaxHighlighter"
+                }
+            ]
+        },
+        {
+            "className": "ControlWidTXT",
+            "lineNumber": 65,
+            "object": true,
+            "qualifiedClassName": "ControlWidTXT",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QWidget"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ControlWidTXT.h",
+    "outputRevision": 69
+}

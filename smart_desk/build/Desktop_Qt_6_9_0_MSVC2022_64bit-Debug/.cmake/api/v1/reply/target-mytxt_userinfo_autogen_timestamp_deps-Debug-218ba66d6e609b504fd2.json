@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"UserInfo/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "mytxt_userinfo_autogen_timestamp_deps::@5f2aa6bf022ace51bb17",
+	"isGeneratorProvided" : true,
+	"name" : "mytxt_userinfo_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "UserInfo",
+		"source" : "UserInfo"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

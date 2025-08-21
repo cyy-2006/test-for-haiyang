@@ -1,0 +1,138 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"Resources/ThirdParty/QXlsx/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 187,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 194,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 209,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "devel",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"Resources/ThirdParty/QXlsx/QXlsxQt6.lib"
+			],
+			"targetId" : "QXlsx::@6f6a31f22723a1d89799",
+			"targetIndex" : 3,
+			"targetIsImportLibrary" : true,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "runtime",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"Resources/ThirdParty/QXlsx/QXlsxQt6.dll"
+			],
+			"targetId" : "QXlsx::@6f6a31f22723a1d89799",
+			"targetIndex" : 3,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "devel",
+			"destination" : "include/QXlsxQt6",
+			"paths" : 
+			[
+				"Resources/ThirdParty/QXlsx/header/xlsxabstractooxmlfile.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxabstractsheet.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxabstractsheet_p.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxcellformula.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxcell.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxcelllocation.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxcellrange.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxcellreference.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxchart.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxchartsheet.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxconditionalformatting.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxdatavalidation.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxdatetype.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxdocument.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxformat.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxglobal.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxrichstring.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxworkbook.h",
+				"Resources/ThirdParty/QXlsx/header/xlsxworksheet.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "QXlsx::@6f6a31f22723a1d89799",
+				"index" : 3
+			},
+			"destination" : "lib",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "devel",
+			"destination" : "lib/cmake/QXlsxQt6",
+			"exportName" : "QXlsxQt6Targets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "QXlsx::@6f6a31f22723a1d89799",
+					"index" : 3
+				}
+			],
+			"paths" : 
+			[
+				"Resources/ThirdParty/QXlsx/CMakeFiles/Export/5e1a71f991ec0867fe453527b0963803/QXlsxQt6Targets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/QXlsxQt6",
+			"paths" : 
+			[
+				"build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/QXlsx/QXlsxQt6Config.cmake",
+				"build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/QXlsx/QXlsxQt6ConfigVersion.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Resources/ThirdParty/QXlsx",
+		"source" : "Resources/ThirdParty/QXlsx"
+	}
+}

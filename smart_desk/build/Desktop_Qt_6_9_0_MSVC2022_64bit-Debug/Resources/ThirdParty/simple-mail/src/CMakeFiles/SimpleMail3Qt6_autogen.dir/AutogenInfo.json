@@ -1,0 +1,285 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/simple-mail/src/SimpleMail3Qt6_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/simple-mail/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src",
+	"CMAKE_EXECUTABLE" : "E:/qt/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/CMakeLists.txt",
+		"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/simplemail-qtX.pc.in"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/simple-mail/src/SimpleMail3Qt6_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "SimpleMail3Qt6_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/SimpleMail.h",
+			"MU",
+			"EWIEGA46WW/moc_SimpleMail.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/emailaddress.h",
+			"MU",
+			"EWIEGA46WW/moc_emailaddress.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/emailaddress_p.h",
+			"MU",
+			"EWIEGA46WW/moc_emailaddress_p.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimeattachment.h",
+			"MU",
+			"EWIEGA46WW/moc_mimeattachment.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimecontentformatter.h",
+			"MU",
+			"EWIEGA46WW/moc_mimecontentformatter.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimefile.h",
+			"MU",
+			"EWIEGA46WW/moc_mimefile.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimehtml.h",
+			"MU",
+			"EWIEGA46WW/moc_mimehtml.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimeinlinefile.h",
+			"MU",
+			"EWIEGA46WW/moc_mimeinlinefile.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimemessage.h",
+			"MU",
+			"EWIEGA46WW/moc_mimemessage.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimemessage_p.h",
+			"MU",
+			"EWIEGA46WW/moc_mimemessage_p.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimemultipart.h",
+			"MU",
+			"EWIEGA46WW/moc_mimemultipart.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimemultipart_p.h",
+			"MU",
+			"EWIEGA46WW/moc_mimemultipart_p.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimepart.h",
+			"MU",
+			"EWIEGA46WW/moc_mimepart.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimepart_p.h",
+			"MU",
+			"EWIEGA46WW/moc_mimepart_p.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimetext.h",
+			"MU",
+			"EWIEGA46WW/moc_mimetext.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/quotedprintable.h",
+			"MU",
+			"EWIEGA46WW/moc_quotedprintable.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/server.h",
+			"MU",
+			"EWIEGA46WW/moc_server.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/server_p.h",
+			"MU",
+			"EWIEGA46WW/moc_server_p.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/serverreply.h",
+			"MU",
+			"EWIEGA46WW/moc_serverreply.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/serverreply_p.h",
+			"MU",
+			"EWIEGA46WW/moc_serverreply_p.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/smtpexports.h",
+			"MU",
+			"EWIEGA46WW/moc_smtpexports.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/simple-mail/src/SimpleMail3Qt6_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/simple-mail/src/SimpleMail3Qt6_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"PLUGINS_PREFER_DEBUG_POSTFIX=1",
+		"QT_CORE_LIB",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x050f00",
+		"QT_NETWORK_LIB",
+		"QT_NO_CAST_FROM_ASCII",
+		"QT_NO_CAST_FROM_BYTEARRAY",
+		"QT_NO_CAST_TO_ASCII",
+		"QT_NO_KEYWORDS",
+		"QT_NO_SIGNALS_SLOTS_KEYWORDS",
+		"QT_NO_URL_CAST_FROM_STRING",
+		"QT_STRICT_ITERATORS",
+		"QT_USE_FAST_OPERATOR_PLUS",
+		"QT_USE_QSTRINGBUILDER",
+		"SimpleMail3Qt6_EXPORTS",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/simple-mail/src",
+		"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src",
+		"E:/qt/Qt/6.9.0/msvc2022_64/include/QtCore",
+		"E:/qt/Qt/6.9.0/msvc2022_64/include",
+		"E:/qt/Qt/6.9.0/msvc2022_64/mkspecs/win32-msvc",
+		"E:/qt/Qt/6.9.0/msvc2022_64/include/QtNetwork"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 24,
+	"PARSE_CACHE_FILE" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/simple-mail/src/CMakeFiles/SimpleMail3Qt6_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "E:/qt/Qt/6.9.0/msvc2022_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "E:/qt/Qt/6.9.0/msvc2022_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/simple-mail/src/CMakeFiles/SimpleMail3Qt6_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/emailaddress.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimeattachment.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimecontentformatter.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimefile.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimehtml.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimeinlinefile.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimemessage.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimemultipart.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimepart.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/mimetext.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/quotedprintable.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/server.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/simple-mail/src/serverreply.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

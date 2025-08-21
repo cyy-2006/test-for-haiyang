@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"OnlineDoc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "mytxt_onlinedoc_autogen_timestamp_deps::@c80b952efc5b8cbb7fc4",
+	"isGeneratorProvided" : true,
+	"name" : "mytxt_onlinedoc_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "OnlineDoc",
+		"source" : "OnlineDoc"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

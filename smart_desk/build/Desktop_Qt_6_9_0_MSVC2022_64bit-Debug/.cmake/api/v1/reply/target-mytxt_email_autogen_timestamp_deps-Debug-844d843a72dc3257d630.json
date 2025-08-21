@@ -1,0 +1,34 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"EmailService/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "SimpleMail3Qt6::@30a6f95f34587ef5df48"
+		}
+	],
+	"id" : "mytxt_email_autogen_timestamp_deps::@41759cfb2da9273c3e42",
+	"isGeneratorProvided" : true,
+	"name" : "mytxt_email_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "EmailService",
+		"source" : "EmailService"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

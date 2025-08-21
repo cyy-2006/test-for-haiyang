@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"manager/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "mytxt_manager_autogen_timestamp_deps::@97418e93d514bfe7a5e1",
+	"isGeneratorProvided" : true,
+	"name" : "mytxt_manager_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "manager",
+		"source" : "manager"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

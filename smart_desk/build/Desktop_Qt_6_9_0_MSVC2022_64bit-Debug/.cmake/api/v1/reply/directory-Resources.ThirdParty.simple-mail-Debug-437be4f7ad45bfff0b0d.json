@@ -1,0 +1,68 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"Resources/ThirdParty/simple-mail/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 67,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 72,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/SimpleMail3Qt6",
+			"paths" : 
+			[
+				"build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/simple-mail/SimpleMail3Qt6Config.cmake",
+				"build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/simple-mail/SimpleMail3Qt6ConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Devel",
+			"destination" : "lib/cmake/SimpleMail3Qt6",
+			"exportName" : "SimpleMailTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "SimpleMail3Qt6::@30a6f95f34587ef5df48",
+					"index" : 6
+				}
+			],
+			"paths" : 
+			[
+				"Resources/ThirdParty/simple-mail/CMakeFiles/Export/356f8d4e89d949eed3792a8f2288a122/SimpleMail3Qt6Targets.cmake"
+			],
+			"type" : "export"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Resources/ThirdParty/simple-mail",
+		"source" : "Resources/ThirdParty/simple-mail"
+	}
+}

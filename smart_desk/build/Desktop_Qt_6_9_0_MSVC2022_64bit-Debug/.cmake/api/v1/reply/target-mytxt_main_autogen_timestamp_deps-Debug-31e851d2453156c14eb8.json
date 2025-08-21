@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"main/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "mytxt_main_autogen_timestamp_deps::@15c4a824ab2728a3f5e7",
+	"isGeneratorProvided" : true,
+	"name" : "mytxt_main_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "main",
+		"source" : "main"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

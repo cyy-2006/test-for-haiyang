@@ -1,0 +1,186 @@
+[
+    {
+        "classes": [
+            {
+                "className": "AddTag",
+                "lineNumber": 10,
+                "object": true,
+                "qualifiedClassName": "AddTag",
+                "slots": [
+                    {
+                        "access": "private",
+                        "index": 0,
+                        "name": "on_saveButton_clicked",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QDialog"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "AddTag.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "ScheduleWid",
+                "lineNumber": 22,
+                "object": true,
+                "qualifiedClassName": "ScheduleWid",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "path",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 0,
+                        "name": "fileClicked",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "item",
+                                "type": "QListWidgetItem*"
+                            }
+                        ],
+                        "index": 1,
+                        "name": "onItemClicked",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "keyword",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 2,
+                        "name": "onSearch",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 3,
+                        "name": "on_comboBox_currentIndexChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 4,
+                        "name": "on_sortComboBox_currentIndexChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "tag",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 5,
+                        "name": "on_refreshBtn_clicked",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QWidget"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "ScheduleWid.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "TagDetail",
+                "lineNumber": 19,
+                "object": true,
+                "qualifiedClassName": "TagDetail",
+                "slots": [
+                    {
+                        "access": "private",
+                        "index": 0,
+                        "name": "on_choosePathBtn_clicked",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 1,
+                        "name": "on_YesBtn_clicked",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 2,
+                        "name": "on_deleteBtn_clicked",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QWidget"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "TagDetail.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "TagList",
+                "lineNumber": 21,
+                "object": true,
+                "qualifiedClassName": "TagList",
+                "slots": [
+                    {
+                        "access": "private",
+                        "index": 0,
+                        "name": "on_pushButton_clicked",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QWidget"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "TagList.h",
+        "outputRevision": 69
+    }
+]

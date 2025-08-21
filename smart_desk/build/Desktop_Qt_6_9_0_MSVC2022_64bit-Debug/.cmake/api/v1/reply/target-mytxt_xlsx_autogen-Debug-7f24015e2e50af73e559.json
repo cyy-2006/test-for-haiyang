@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"DisposeAbstract/DisposeXLSX/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "mytxt_xlsx_autogen_timestamp_deps::@e15150b361c0438f3543"
+		}
+	],
+	"id" : "mytxt_xlsx_autogen::@e15150b361c0438f3543",
+	"isGeneratorProvided" : true,
+	"name" : "mytxt_xlsx_autogen",
+	"paths" : 
+	{
+		"build" : "DisposeAbstract/DisposeXLSX",
+		"source" : "DisposeAbstract/DisposeXLSX"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/DisposeAbstract/DisposeXLSX/CMakeFiles/mytxt_xlsx_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/DisposeAbstract/DisposeXLSX/CMakeFiles/mytxt_xlsx_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/DisposeAbstract/DisposeXLSX/mytxt_xlsx_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

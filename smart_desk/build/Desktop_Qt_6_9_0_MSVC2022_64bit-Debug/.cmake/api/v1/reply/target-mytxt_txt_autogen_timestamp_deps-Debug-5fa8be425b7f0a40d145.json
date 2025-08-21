@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"DisposeAbstract/DisposeTXT/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "mytxt_txt_autogen_timestamp_deps::@22d3c4ea2864f1017caf",
+	"isGeneratorProvided" : true,
+	"name" : "mytxt_txt_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "DisposeAbstract/DisposeTXT",
+		"source" : "DisposeAbstract/DisposeTXT"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

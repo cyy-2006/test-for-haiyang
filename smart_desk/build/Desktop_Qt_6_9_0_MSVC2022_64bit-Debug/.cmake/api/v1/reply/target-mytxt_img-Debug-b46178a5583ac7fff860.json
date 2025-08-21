@@ -1,0 +1,395 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "DisposeAbstract/DisposeIMG/mytxt_img.lib"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_library",
+			"qt_add_library",
+			"target_link_libraries",
+			"target_include_directories",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"qt6_finalize_target"
+		],
+		"files" : 
+		[
+			"E:/qt/Qt/6.9.0/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"DisposeAbstract/DisposeIMG/CMakeLists.txt",
+			"E:/qt/Qt/6.9.0/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:854:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 2806,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2694,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2781,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 24,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 1,
+				"parent" : 7
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 840,
+				"parent" : 8
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 1489,
+				"parent" : 9
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-Zc:__cplusplus"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-permissive-"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-utf-8"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 5,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_SVGWIDGETS_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_SVG_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/DisposeAbstract/DisposeIMG/mytxt_img_autogen/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/DisposeAbstract/DisposeIMG"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "E:/qt/Qt/6.9.0/msvc2022_64/include/QtWidgets"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "E:/qt/Qt/6.9.0/msvc2022_64/include"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "E:/qt/Qt/6.9.0/msvc2022_64/include/QtCore"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "E:/qt/Qt/6.9.0/msvc2022_64/mkspecs/win32-msvc"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "E:/qt/Qt/6.9.0/msvc2022_64/include/QtGui"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "E:/qt/Qt/6.9.0/msvc2022_64/include/QtSvg"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "E:/qt/Qt/6.9.0/msvc2022_64/include/QtSvgWidgets"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					5
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "mytxt_img_autogen_timestamp_deps::@b35f1dbe17117d7379f7"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "mytxt_img_autogen::@b35f1dbe17117d7379f7"
+		}
+	],
+	"id" : "mytxt_img::@b35f1dbe17117d7379f7",
+	"name" : "mytxt_img",
+	"nameOnDisk" : "mytxt_img.lib",
+	"paths" : 
+	{
+		"build" : "DisposeAbstract/DisposeIMG",
+		"source" : "DisposeAbstract/DisposeIMG"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				5,
+				6,
+				7,
+				8,
+				11
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				9,
+				10,
+				12
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/DisposeAbstract/DisposeIMG/mytxt_img_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "DisposeAbstract/DisposeIMG/TabHandleIMG.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "DisposeAbstract/DisposeIMG/ControlFrame.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "DisposeAbstract/DisposeIMG/PixItem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "DisposeAbstract/DisposeIMG/WaterMark.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "DisposeAbstract/DisposeIMG/include/TabHandleIMG.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "DisposeAbstract/DisposeIMG/include/ControlFrame.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "DisposeAbstract/DisposeIMG/include/PixItem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "DisposeAbstract/DisposeIMG/include/WaterMark.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "DisposeAbstract/DisposeIMG/ui/ControlFrame.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 10,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/DisposeAbstract/DisposeIMG/meta_types/qt6mytxt_img_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/DisposeAbstract/DisposeIMG/mytxt_img_autogen/include/ui/ui_ControlFrame.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/DisposeAbstract/DisposeIMG/mytxt_img_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/DisposeAbstract/DisposeIMG/meta_types/qt6mytxt_img_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/DisposeAbstract/DisposeIMG/mytxt_img_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/DisposeAbstract/DisposeIMG/meta_types/mytxt_img_json_file_list.txt.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

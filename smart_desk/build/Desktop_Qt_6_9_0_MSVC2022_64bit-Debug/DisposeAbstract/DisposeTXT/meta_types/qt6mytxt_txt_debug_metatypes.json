@@ -1,0 +1,90 @@
+[
+    {
+        "classes": [
+            {
+                "className": "CppHighlighter",
+                "lineNumber": 13,
+                "object": true,
+                "qualifiedClassName": "CppHighlighter",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QSyntaxHighlighter"
+                    }
+                ]
+            },
+            {
+                "className": "ControlWidTXT",
+                "lineNumber": 65,
+                "object": true,
+                "qualifiedClassName": "ControlWidTXT",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QWidget"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "ControlWidTXT.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "TextTab",
+                "lineNumber": 14,
+                "object": true,
+                "qualifiedClassName": "TextTab",
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "str",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "cs",
+                                "type": "Qt::CaseSensitivity"
+                            }
+                        ],
+                        "index": 0,
+                        "name": "findNext",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "str",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "cs",
+                                "type": "Qt::CaseSensitivity"
+                            }
+                        ],
+                        "index": 1,
+                        "name": "findAll",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "name": "clearHighlight",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "TabAbstract"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "TabHandleTXT.h",
+        "outputRevision": 69
+    }
+]

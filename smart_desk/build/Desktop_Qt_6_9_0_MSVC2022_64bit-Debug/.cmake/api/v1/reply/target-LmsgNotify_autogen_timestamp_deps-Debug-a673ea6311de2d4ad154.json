@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"Resources/ThirdParty/LmsgNotify/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "LmsgNotify_autogen_timestamp_deps::@cb1fa063195306391ab3",
+	"isGeneratorProvided" : true,
+	"name" : "LmsgNotify_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "Resources/ThirdParty/LmsgNotify",
+		"source" : "Resources/ThirdParty/LmsgNotify"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

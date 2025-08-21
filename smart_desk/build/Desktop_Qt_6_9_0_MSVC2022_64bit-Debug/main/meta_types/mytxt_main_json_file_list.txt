@@ -1,0 +1,5 @@
+C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/main/mytxt_main_autogen/include/../6YEA5652QU/moc_RecentFilesManager.cpp.json
+C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/main/mytxt_main_autogen/include/../6YEA5652QU/moc_TabAbstract.cpp.json
+C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/main/mytxt_main_autogen/include/../6YEA5652QU/moc_WidgetFunctional.cpp.json
+C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/main/mytxt_main_autogen/include/../6YEA5652QU/moc_finddialog.cpp.json
+C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/main/mytxt_main_autogen/include/../6YEA5652QU/moc_mainwindow.cpp.json

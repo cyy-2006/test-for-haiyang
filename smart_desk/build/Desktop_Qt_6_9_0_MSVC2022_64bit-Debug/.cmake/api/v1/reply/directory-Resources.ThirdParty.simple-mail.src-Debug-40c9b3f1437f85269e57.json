@@ -1,0 +1,109 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"Resources/ThirdParty/simple-mail/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 110,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "devel",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"Resources/ThirdParty/simple-mail/src/SimpleMail3Qt6.lib"
+			],
+			"targetId" : "SimpleMail3Qt6::@30a6f95f34587ef5df48",
+			"targetIndex" : 6,
+			"targetIsImportLibrary" : true,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "runtime",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"Resources/ThirdParty/simple-mail/src/SimpleMail3Qt6.dll"
+			],
+			"targetId" : "SimpleMail3Qt6::@30a6f95f34587ef5df48",
+			"targetIndex" : 6,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "devel",
+			"destination" : "include/simplemail3-qt6/SimpleMail",
+			"paths" : 
+			[
+				"Resources/ThirdParty/simple-mail/src/emailaddress.h",
+				"Resources/ThirdParty/simple-mail/src/mimeattachment.h",
+				"Resources/ThirdParty/simple-mail/src/mimecontentformatter.h",
+				"Resources/ThirdParty/simple-mail/src/mimefile.h",
+				"Resources/ThirdParty/simple-mail/src/mimehtml.h",
+				"Resources/ThirdParty/simple-mail/src/mimeinlinefile.h",
+				"Resources/ThirdParty/simple-mail/src/mimemessage.h",
+				"Resources/ThirdParty/simple-mail/src/mimemultipart.h",
+				"Resources/ThirdParty/simple-mail/src/mimepart.h",
+				"Resources/ThirdParty/simple-mail/src/mimetext.h",
+				"Resources/ThirdParty/simple-mail/src/quotedprintable.h",
+				"Resources/ThirdParty/simple-mail/src/server.h",
+				"Resources/ThirdParty/simple-mail/src/serverreply.h",
+				"Resources/ThirdParty/simple-mail/src/smtpexports.h",
+				"Resources/ThirdParty/simple-mail/src/SimpleMail"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "SimpleMail3Qt6::@30a6f95f34587ef5df48",
+				"index" : 6
+			},
+			"destination" : "lib",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/simple-mail/src/SimpleMail3Qt6.pc"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Resources/ThirdParty/simple-mail/src",
+		"source" : "Resources/ThirdParty/simple-mail/src"
+	}
+}

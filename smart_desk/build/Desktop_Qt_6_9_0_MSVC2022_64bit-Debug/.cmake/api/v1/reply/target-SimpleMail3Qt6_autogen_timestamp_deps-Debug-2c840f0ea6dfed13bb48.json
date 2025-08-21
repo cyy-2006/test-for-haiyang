@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"Resources/ThirdParty/simple-mail/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "SimpleMail3Qt6_autogen_timestamp_deps::@30a6f95f34587ef5df48",
+	"isGeneratorProvided" : true,
+	"name" : "SimpleMail3Qt6_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "Resources/ThirdParty/simple-mail/src",
+		"source" : "Resources/ThirdParty/simple-mail/src"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

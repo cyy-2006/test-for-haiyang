@@ -1,0 +1,20 @@
+[
+    {
+        "classes": [
+            {
+                "className": "TabHandleXLSX",
+                "lineNumber": 18,
+                "object": true,
+                "qualifiedClassName": "TabHandleXLSX",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "TabAbstract"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "TabHandleXLSX.h",
+        "outputRevision": 69
+    }
+]

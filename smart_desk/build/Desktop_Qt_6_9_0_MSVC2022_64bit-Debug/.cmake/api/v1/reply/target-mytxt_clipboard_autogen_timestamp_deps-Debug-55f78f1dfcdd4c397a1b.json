@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"ClipBoard/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "mytxt_clipboard_autogen_timestamp_deps::@220ed9ebd1cfbeb15a72",
+	"isGeneratorProvided" : true,
+	"name" : "mytxt_clipboard_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "ClipBoard",
+		"source" : "ClipBoard"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

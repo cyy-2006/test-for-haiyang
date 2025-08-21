@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"FileSystem/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "mytxt_filetag_autogen_timestamp_deps::@b9ea1107c55a7f026a8a",
+	"isGeneratorProvided" : true,
+	"name" : "mytxt_filetag_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "FileSystem",
+		"source" : "FileSystem"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

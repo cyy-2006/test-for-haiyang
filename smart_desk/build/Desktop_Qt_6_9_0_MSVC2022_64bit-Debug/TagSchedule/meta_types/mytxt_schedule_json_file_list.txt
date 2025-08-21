@@ -1,0 +1,4 @@
+C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/TagSchedule/mytxt_schedule_autogen/include/../6YEA5652QU/moc_AddTag.cpp.json
+C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/TagSchedule/mytxt_schedule_autogen/include/../6YEA5652QU/moc_ScheduleWid.cpp.json
+C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/TagSchedule/mytxt_schedule_autogen/include/../6YEA5652QU/moc_TagDetail.cpp.json
+C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/TagSchedule/mytxt_schedule_autogen/include/../6YEA5652QU/moc_TagList.cpp.json

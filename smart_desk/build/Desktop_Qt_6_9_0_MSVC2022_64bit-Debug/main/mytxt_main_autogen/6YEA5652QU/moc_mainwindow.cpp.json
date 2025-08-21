@@ -1,0 +1,92 @@
+{
+    "classes": [
+        {
+            "className": "MainWindow",
+            "lineNumber": 39,
+            "object": true,
+            "qualifiedClassName": "MainWindow",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "showUserInfo",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "index": 1,
+                    "name": "on_actionopen_triggered",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 2,
+                    "name": "on_actionsave_triggered",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 3,
+                    "name": "on_actionclose_triggered",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 4,
+                    "name": "on_actionfind_triggered",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "fileName",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "fileContent",
+                            "type": "QByteArray"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "handleFileDownload",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 6,
+                    "name": "handleFilePathSent",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "filePath",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 7,
+                    "name": "openFile",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 8,
+                    "name": "showUserInfoDialog",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QMainWindow"
+                }
+            ]
+        }
+    ],
+    "inputFile": "mainwindow.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"FileBackup/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "mytxt_filehis_autogen_timestamp_deps::@a04c9e1285aa3f368306",
+	"isGeneratorProvided" : true,
+	"name" : "mytxt_filehis_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "FileBackup",
+		"source" : "FileBackup"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,116 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/LmsgNotify/LmsgNotify_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/LmsgNotify",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/LmsgNotify",
+	"CMAKE_EXECUTABLE" : "E:/qt/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/LmsgNotify/CMakeLists.txt",
+		"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/.qtc/package-manager/auto-setup.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/LmsgNotify/LmsgNotify_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "LmsgNotify_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/LmsgNotify/arrangedwnd.h",
+			"MU",
+			"EWIEGA46WW/moc_arrangedwnd.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/LmsgNotify/notifymanager.h",
+			"MU",
+			"EWIEGA46WW/moc_notifymanager.cpp",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/LmsgNotify/notifywnd.h",
+			"MU",
+			"EWIEGA46WW/moc_notifywnd.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/LmsgNotify/LmsgNotify_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/LmsgNotify/LmsgNotify_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_WIDGETS_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/LmsgNotify",
+		"E:/qt/Qt/6.9.0/msvc2022_64/include/QtWidgets",
+		"E:/qt/Qt/6.9.0/msvc2022_64/include",
+		"E:/qt/Qt/6.9.0/msvc2022_64/include/QtCore",
+		"E:/qt/Qt/6.9.0/msvc2022_64/mkspecs/win32-msvc",
+		"E:/qt/Qt/6.9.0/msvc2022_64/include/QtGui"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 24,
+	"PARSE_CACHE_FILE" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/LmsgNotify/CMakeFiles/LmsgNotify_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "E:/qt/Qt/6.9.0/msvc2022_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "E:/qt/Qt/6.9.0/msvc2022_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/Resources/ThirdParty/LmsgNotify/CMakeFiles/LmsgNotify_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/LmsgNotify/arrangedwnd.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/LmsgNotify/notifymanager.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/pyke/Downloads/SmartDesk-SmartDesk1_2/SmartDesk-SmartDesk1_2/Resources/ThirdParty/LmsgNotify/notifywnd.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
